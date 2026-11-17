@@ -16,11 +16,6 @@ The notebook and report are written in Norwegian.
 
 The dataset was provided by the course and is not included.
 
-```bash
-pip install -r requirements.txt
-jupyter notebook prosjekt-endelig.ipynb
-```
-
 ## Tools
 
 Python, pandas, scikit-learn, Plotly
